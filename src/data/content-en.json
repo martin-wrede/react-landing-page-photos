@@ -105,7 +105,7 @@
       },
       {
         "question": "What file formats do you accept?",
-        "answer": "Almost all: JPG, PNG, HEIC, RAW."
+        "answer": "JPG, PNG"
       },
       {
         "question": "Can I book more images later?",
@@ -114,16 +114,31 @@
     ]
   },
   "ctaSection": {
-    "headline": "Secure AI-Optimized Food Photos Now – With Free Bonus Images.",
-    "subtext": "Starter from €120, Standard from €200, Premium from €350.",
-    "cta1": {
-      "text": "Request Free Test Images Now",
-      "link": "#cta"
-    },
-    "cta2": {
-      "text": "Select Package",
-      "link": "#pricing"
-    }
+    "headline": "Christmas Special until December 6th:",
+    "pricingItems": [
+      {
+        "title": "⭐ Starter Normal",
+        "features": [
+          "→ 2 free test images.",
+          "5 optimized photos",
+          "+3 Bonus images"
+        ],
+        "price": "120 €",
+        "buttonText": "Select Package",
+        "buttonLink": "mailto:info@targetx.de?subject=Request%20Starter%20Package"
+      },
+      {
+        "title": "⭐ Standard Normal",
+        "features": [
+          "→ 2 free test images.",
+          "10 optimized photos",
+          "+5 Bonus images"
+        ],
+        "price": "200 €",
+        "buttonText": "Select Package",
+        "buttonLink": "mailto:info@targetx.de?subject=Request%20Standard%20Package"
+      }
+    ]
   },
   "pricing": {
     "headline": "Pricing Table",

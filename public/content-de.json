@@ -2,7 +2,7 @@
   "header": {
     "logoUrl": "images/logo.svg",
     "cta": {
-      "text": "Jetzt kostenlose Testbilder anfordern",
+      "text": "Starter Paket wählen",
       "link": "#cta"
     }
   },
@@ -10,12 +10,8 @@
     "headline": "Steigere deine Bestellungen mit AI-optimierten Food-Fotos.",
     "subheadline": "Professionell nachbearbeitete Gerichte, die sofort appetitlich wirken – ideal für Lieferdienste, Social Media und Speisekarten.",
     "cta1": {
-      "text": "Jetzt kostenlose Testbilder anfordern",
+      "text": "Paket wählen",
       "link": "#cta"
-    },
-    "cta2": {
-      "text": "Beispiele ansehen",
-      "link": "#examples"
     },
     "imageUrl": "images/hero.jpg"
   },
@@ -114,16 +110,31 @@
     ]
   },
   "ctaSection": {
-    "headline": "Jetzt AI-optimierte Food-Fotos sichern – mit kostenlosen Bonusbildern.",
-    "subtext": "Starter ab 120€, Standard ab 200€, Premium ab 350€.",
-    "cta1": {
-      "text": "Jetzt kostenlose Testbilder anfordern",
-      "link": "#cta"
-    },
-    "cta2": {
-      "text": "Paket auswählen",
-      "link": "#pricing"
-    }
+    "headline": "Weihnachtsaktion bis 6. Dezember:",
+    "pricingItems": [
+      {
+        "title": "⭐ Starter normal",
+        "features": [
+          "→ 2 kostenlose Testbilder.",
+          "5 optimierte Fotos",
+          "+3 Bonusbild"
+        ],
+        "price": "120 €",
+        "buttonText": "Paket wählen",
+        "buttonLink": "mailto:info@targetx.de?subject=Anfrage%20Starter%20Paket"
+      },
+      {
+        "title": "⭐ Standard normal",
+        "features": [
+          "→ 2 kostenlose Testbilder.",
+          "10 optimierte Fotos",
+          "+5 Bonusbilder"
+        ],
+        "price": "200 €",
+        "buttonText": "Paket wählen",
+        "buttonLink": "mailto:info@targetx.de?subject=Anfrage%20Standard%20Paket"
+      }
+    ]
   },
   "pricing": {
     "headline": "Preistabelle",

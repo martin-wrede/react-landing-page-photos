@@ -6,10 +6,28 @@ const CTASection = ({ data }) => {
       <div className="container">
         <h2>{data.headline}</h2>
         {data.subtext && <p className="cta-subtext">{data.subtext}</p>}
-        <div className="hero-cta-buttons">
-          <a href={data.cta1.link} className="cta-button">{data.cta1.text}</a>
-          <a href={data.cta2.link} className="cta-button">{data.cta2.text}</a>
-        </div>
+
+        {data.pricingItems ? (
+          <div className="pricing-container">
+            {data.pricingItems.map((item, index) => (
+              <div key={index} className="pricing-card">
+                <h3 className="pricing-title">{item.title}</h3>
+                <ul className="pricing-features">
+                  {item.features.map((feature, i) => (
+                    <li key={i}>{feature}</li>
+                  ))}
+                </ul>
+                <div className="pricing-price">{item.price}</div>
+                <a href={item.buttonLink} className="cta-button pricing-button">{item.buttonText}</a>
+              </div>
+            ))}
+          </div>
+        ) : (
+          <div className="hero-cta-buttons">
+            <a href={data.cta1.link} className="cta-button">{data.cta1.text}</a>
+            <a href={data.cta2.link} className="cta-button">{data.cta2.text}</a>
+          </div>
+        )}
       </div>
     </section>
   );
