@@ -1,0 +1,375 @@
+/* --- Globale Stile & Variablen --- */
+:root {
+  --primary-color: #007bff;
+  --dark-color: #222;
+  --light-color: #f4f4f4;
+  --text-color: #333;
+  --container-width: 1050px;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f8f9fa;
+  color: var(--text-color);
+  line-height: 1.6;
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  max-width: 1050px;
+  width: 100%;
+  margin: 0 auto;
+  background: #fff;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  min-height: 100vh;
+  position: relative;
+}
+
+.container {
+  max-width: var(--container-width);
+  margin: auto;
+  padding: 0 20px;
+}
+
+section {
+  padding: 60px 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin-bottom: 20px;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.2rem;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+/* --- Buttons --- */
+.cta-button {
+  display: inline-block;
+  background: var(--dark-color);
+  color: #fff;
+  padding: 12px 30px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background: #444;
+}
+
+/* --- Header --- */
+.header {
+  background: #fff;
+  padding: 15px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  height: 40px;
+}
+
+.primary-cta {
+  background: var(--primary-color);
+}
+
+.primary-cta:hover {
+  background: #0056b3;
+}
+
+/* --- Navigation --- */
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+/* --- Language Switcher --- */
+.language-switcher {
+  display: flex;
+  gap: 5px;
+}
+
+.lang-button {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  background: #fff;
+  color: var(--text-color);
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.lang-button:hover {
+  background: var(--light-color);
+  border-color: var(--primary-color);
+}
+
+.lang-button:disabled {
+  background: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+  cursor: default;
+}
+
+/* --- Loading State --- */
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 18px;
+  color: var(--text-color);
+}
+
+
+/* --- Hero Section --- */
+.hero {
+  text-align: center;
+  padding: 120px 0;
+  position: relative;
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+}
+
+.hero-overlay {
+  /* background: rgba(0, 0, 0, 0.4); */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+}
+
+.hero h1 {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.subheadline {
+  font-size: 1.2rem;
+  color: rgba(255, 255, 255, 0.9);
+  max-width: 600px;
+  margin: 0 auto 30px auto;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.hero-cta-buttons {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
+/* --- Credentials Section --- */
+.credentials {
+  background: var(--light-color);
+  padding: 40px 0;
+}
+
+.logos-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.credential-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 200px;
+}
+
+.client-logo {
+  filter: grayscale(100%);
+  opacity: 0.6;
+  transition: all 0.3s ease;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.client-logo:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+
+.credential-quote {
+  font-style: italic;
+  color: #666;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  margin: 0;
+}
+
+/* --- Features Section --- */
+.features .feature-item {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.feature-image {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+/* --- FAQ Section --- */
+.faq {
+  background: var(--light-color);
+  text-align: center;
+}
+
+.faq-list {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.faq-item {
+  background: #fff;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.faq-item h4 {
+  margin-bottom: 10px;
+}
+
+/* --- CTA Section --- */
+.cta-section {
+  background: var(--dark-color);
+  color: #fff;
+  text-align: center;
+}
+
+.cta-section .cta-button {
+  background: var(--primary-color);
+}
+
+.cta-section .cta-button:hover {
+  background: #0056b3;
+}
+
+.cta-subtext {
+  margin-top: 15px;
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+
+/* --- Footer --- */
+.footer {
+  background: #f9f9f9;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.footer-links a {
+  color: #666;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+/* --- Responsivität --- */
+@media(min-width: 768px) {
+  h1 {
+    font-size: 3.5rem;
+  }
+
+  .feature-item {
+    flex-direction: row !important;
+    text-align: left !important;
+    gap: 50px !important;
+  }
+
+  .feature-item:nth-child(even) {
+    flex-direction: row-reverse !important;
+  }
+
+  .feature-text,
+  .feature-image-container {
+    flex: 1;
+  }
+
+  .footer-container {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+
+.button {
+  padding: 3px 6px;
+  border: 1px solid black;
+  border-radius: 4px;
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  margin-right: 8px;
+}
+
+.button:hover:not(:disabled) {
+  background-color: #ccc;
+  /* light grey on hover */
+}
+
+.button:disabled {
+  background-color: #ccc;
+  /* dark grey background */
+  color: black;
+  border: 1px solid black;
+  opacity: 1;
+  /* remove default fade */
+  cursor: default;
+}

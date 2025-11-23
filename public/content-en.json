@@ -1,0 +1,116 @@
+{
+  "header": {
+    "logoUrl": "/react-landing-page-assistant/logo.svg",
+    "cta": {
+      "text": "Start Free Trial",
+      "link": "#cta"
+    }
+  },
+  "hero": {
+    "headline": "AI Project Planning Assistant for Solopreneurs & Freelancers",
+    "subheadline": "Transform overwhelming goals into actionable project roadmaps with our smart scheduling assistant. Get automated project breakdown, AI Gantt chart tool, and SMS motivation reminders to stay accountable.",
+    "cta1": {
+      "text": "Start Free Plan",
+      "link": "#cta1"
+    },
+     "cta2": {
+      "text": "Go Pro - CSV Export",
+      "link": "#cta2"
+    },
+    "imageUrl": "/react-landing-page-assistant/hero.jpg"
+  },
+  "credentials": {
+    "title": "Trusted by Productive Solopreneurs",
+    "logos": [
+      { "name": "Sarah M.", "url": "/react-landing-page-assistant/user-profile-1.png", "quote": "This AI task planner helped me break down my biggest project into manageable steps"  },
+      { "name": "Mike R.", "url": "/react-landing-page-assistant/user-profile-2.png", "quote": "Best AI productivity tool I've used - the daily task manager AI keeps me focused" },
+      { "name": "Lisa K.", "url": "/react-landing-page-assistant/user-profile-3.png", "quote": "Finally achieved my goals with smart goal breakdown and motivation reminders" },
+      { "name": "David J.", "url": "/react-landing-page-assistant/user-profile-4.png", "quote": "Simple project planning app that actually works for busy freelancers" }
+    ]
+  },
+  "features": {
+    "title": "AI-Powered Features for Project Success",
+    "items": [
+      {
+        "title": "AI Project Breakdown Tool",
+        "description": "Our AI project planning assistant automatically breaks down complex goals into actionable steps. Get a complete project roadmap with smart goal breakdown and task prioritization AI.",
+        "imageUrl": "/react-landing-page-assistant/feature1.png"
+      },
+      {
+        "title": "Smart Scheduling & Export",
+        "description": "Generate AI Gantt chart timelines that fit your schedule. Export to CSV calendar, import calendar tasks, and sync with your favorite productivity apps using our AI calendar generator.",
+        "imageUrl": "/react-landing-page-assistant/feature2.png"
+      },
+      {
+        "title": "AI Accountability Partner",
+        "description": "Stay motivated with SMS motivation reminders and email daily planner updates. Our AI success assistant tracks your progress and sends personalized encouragement.",
+        "imageUrl": "/react-landing-page-assistant/feature1.png"
+      }
+    ]
+  },
+   "users": {
+    "title": "Perfect for Ambitious Solo Workers",
+    "items": [
+      {
+        "title": "Solopreneurs & Entrepreneurs",
+        "description": "Get your solopreneur AI assistant for business idea organization, startup roadmap planning, and one-person business project management. Perfect entrepreneur project planner.",
+        "imageUrl": "/react-landing-page-assistant/user3.png"
+      },
+      {
+        "title": "Freelancers & Consultants",
+        "description": "Streamline client projects with our freelancer task manager. Ideal freelancer productivity dashboard for project scheduling and deadline management.",
+        "imageUrl": "/react-landing-page-assistant/user2.jpg"
+      },
+      {
+        "title": "Creative Professionals",
+        "description": "Organize creative project planning with AI workflow planner. Perfect for designers, writers, and artists who need structured creative project planning AI.",
+        "imageUrl": "/react-landing-page-assistant/user1.png"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "How does the AI project planning assistant work?",
+        "answer": "Our AI analyzes your project goals and automatically creates a breakdown of tasks, timelines, and milestones. The AI task planner considers your schedule and preferences to generate a realistic project roadmap."
+      },
+      {
+        "question": "Can I export my project timeline to other apps?",
+        "answer": "Yes! Use our CSV calendar export feature to import your AI-generated project timeline into Google Calendar, Outlook, or any calendar app. The AI calendar generator creates perfectly formatted files."
+      },
+      {
+        "question": "What makes this better than other productivity tools?",
+        "answer": "Unlike generic task managers, our solopreneur AI assistant is specifically designed for independent workers. You get AI accountability partner features, smart goal breakdown, and motivation reminders tailored for solo professionals."
+      },
+      {
+        "question": "How do the SMS motivation reminders work?",
+        "answer": "Our AI success assistant sends personalized text reminders based on your project progress. Get daily motivation, deadline alerts, and achievement celebrations delivered right to your phone."
+      },
+      {
+        "question": "Is this suitable for complex business projects?",
+        "answer": "Absolutely! Our AI Gantt chart tool and automated project tracker handle everything from simple tasks to complex multi-phase business launches. Perfect for startup roadmap planning and business idea organization."
+      }
+    ]
+  },
+  "ctaSection": {
+    "headline": "Start Your AI-Powered Project Planning Today",
+    "subtext": "Join thousands of solopreneurs using our AI project planning assistant to achieve their biggest goals.",
+    "cta1": {
+      "text": "Start Free Trial",
+      "link": "#cta1"
+    },
+     "cta2": {
+      "text": "View Pro Features",
+      "link": "#cta2"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 BeautifulmindAI. All rights reserved.",
+    "links": [
+      { "text": "Privacy Policy", "link": "#" },
+      { "text": "Terms of Service", "link": "#" },
+      { "text": "Contact Support", "link": "#" }
+    ]
+  }
+}
