@@ -1,6 +1,6 @@
 {
   "header": {
-    "logoUrl": "/react-landing-page-assistant/logo.svg",
+    "logoUrl": "images/logo.svg",
     "cta": {
       "text": "Jetzt kostenlose Testbilder anfordern",
       "link": "#cta"
@@ -17,24 +17,24 @@
       "text": "Beispiele ansehen",
       "link": "#examples"
     },
-    "imageUrl": "/react-landing-page-assistant/hero.png"
+    "imageUrl": "images/hero.jpg"
   },
   "credentials": {
     "title": "Was unsere Kunden sagen",
     "logos": [
       {
         "name": "Mario L.",
-        "url": "/react-landing-page-assistant/user-profile-1.png",
+        "url": "images/user-profile-1.jpg",
         "quote": "Unsere Online-Bestellungen sind im ersten Monat um 27% gestiegen. Die neuen Fotos sehen deutlich professioneller aus."
       },
       {
         "name": "Sarah K.",
-        "url": "/react-landing-page-assistant/user-profile-2.png",
+        "url": "images/user-profile-2.jpg",
         "quote": "Wir haben die Bilder für UberEats verwendet und sofort mehr Klicks bekommen. Schneller Service und top Qualität."
       },
       {
         "name": "David R.",
-        "url": "/react-landing-page-assistant/user-profile-3.png",
+        "url": "images/user-profile-3.jpg",
         "quote": "Für den Preis unschlagbar. Die AI-Optimierung spart uns jedes Mal einen Fotografen."
       }
     ]
@@ -45,27 +45,22 @@
       {
         "title": "AI Nachbearbeitung",
         "description": "Wir optimieren Kontrast, Farben, Präsentation und Schärfe – so wirkt jedes Gericht professionell fotografiert.",
-        "imageUrl": "/react-landing-page-assistant/feature1.png"
+        "imageUrl": "images/feature1.jpg"
       },
       {
         "title": "Background Cleanup",
-        "description": "Unruhige Hintergründe, Schatten oder störende Elemente werden automatisch entfernt.",
-        "imageUrl": "/react-landing-page-assistant/feature2.png"
-      },
-      {
-        "title": "Social-Media Ready",
-        "description": "Perfekt zugeschnitten für Instagram, Facebook & Lieferdienste wie UberEats, DoorDash und Wolt.",
-        "imageUrl": "/react-landing-page-assistant/sms-mobile.png"
-      },
-      {
-        "title": "Farbverstärkung & Glanzoptimierung",
-        "description": "Sattes Grün, warmes Gelb, knackiges Rot – wir holen das Beste aus jedem Gericht.",
-        "imageUrl": "/react-landing-page-assistant/feature1.png"
+        "description": "Unruhige Hintergründe, Schatten oder störende Elemente werden bei Bedarf entfernt. Wichtige Elemente werden ergänzt",
+        "imageUrl": "images/feature2.jpg"
       },
       {
         "title": "Einheitlicher Look",
         "description": "Ein einheitlicher Stil macht dein Restaurant sofort professioneller und vertrauenswürdiger.",
-        "imageUrl": "/react-landing-page-assistant/feature2.png"
+        "imageUrl": "images/feature4.jpg"
+      },
+      {
+        "title": "Social-Media Ready",
+        "description": "Perfekt zugeschnitten für Instagram, Facebook & Lieferdienste wie UberEats, DoorDash und Wolt.",
+        "imageUrl": "images/feature5.jpg"
       }
     ]
   },
@@ -75,22 +70,17 @@
       {
         "title": "Für Restaurants",
         "description": "Mehr Bestellungen, bessere Präsentation und ein professionelles Auftreten – perfekt für dein Menü.",
-        "imageUrl": "/react-landing-page-assistant/user3.png"
+        "imageUrl": "images/user3.jpg"
       },
       {
-        "title": "Für Lieferdienste",
+        "title": "Für Catering & Lieferdienste",
         "description": "Optimierte Food-Fotos erhöhen die Klickrate auf deinen Gerichten – und damit deine Umsätze.",
-        "imageUrl": "/react-landing-page-assistant/user2.png"
+        "imageUrl": "images/user2.jpg"
       },
       {
         "title": "Für Cafés & Bistros",
         "description": "Moderne, helle Fotos für Social Media und digitale Speisekarten.",
-        "imageUrl": "/react-landing-page-assistant/user1.png"
-      },
-      {
-        "title": "Für Catering & Food Trucks",
-        "description": "Deine Gerichte müssen im Netz genauso gut aussehen wie live.",
-        "imageUrl": "/react-landing-page-assistant/user3.png"
+        "imageUrl": "images/user1.jpg"
       }
     ]
   },

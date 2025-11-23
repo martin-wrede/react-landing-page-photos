@@ -17,24 +17,24 @@
       "text": "Beispiele ansehen",
       "link": "#examples"
     },
-    "imageUrl": "images/hero.png"
+    "imageUrl": "images/hero.jpg"
   },
   "credentials": {
     "title": "Was unsere Kunden sagen",
     "logos": [
       {
         "name": "Mario L.",
-        "url": "images/user-profile-1.png",
+        "url": "images/user-profile-1.jpg",
         "quote": "Unsere Online-Bestellungen sind im ersten Monat um 27% gestiegen. Die neuen Fotos sehen deutlich professioneller aus."
       },
       {
         "name": "Sarah K.",
-        "url": "images/user-profile-2.png",
+        "url": "images/user-profile-2.jpg",
         "quote": "Wir haben die Bilder für UberEats verwendet und sofort mehr Klicks bekommen. Schneller Service und top Qualität."
       },
       {
         "name": "David R.",
-        "url": "images/user-profile-3.png",
+        "url": "images/user-profile-3.jpg",
         "quote": "Für den Preis unschlagbar. Die AI-Optimierung spart uns jedes Mal einen Fotografen."
       }
     ]
@@ -45,7 +45,7 @@
       {
         "title": "AI Nachbearbeitung",
         "description": "Wir optimieren Kontrast, Farben, Präsentation und Schärfe – so wirkt jedes Gericht professionell fotografiert.",
-        "imageUrl": "images/feature1.png"
+        "imageUrl": "images/feature1.jpg"
       },
       {
         "title": "Background Cleanup",
@@ -55,12 +55,12 @@
       {
         "title": "Einheitlicher Look",
         "description": "Ein einheitlicher Stil macht dein Restaurant sofort professioneller und vertrauenswürdiger.",
-        "imageUrl": "images/feature4.png"
+        "imageUrl": "images/feature4.jpg"
       },
       {
         "title": "Social-Media Ready",
         "description": "Perfekt zugeschnitten für Instagram, Facebook & Lieferdienste wie UberEats, DoorDash und Wolt.",
-        "imageUrl": "images/feature5.png"
+        "imageUrl": "images/feature5.jpg"
       }
     ]
   },
@@ -70,17 +70,17 @@
       {
         "title": "Für Restaurants",
         "description": "Mehr Bestellungen, bessere Präsentation und ein professionelles Auftreten – perfekt für dein Menü.",
-        "imageUrl": "images/user3.png"
+        "imageUrl": "images/user3.jpg"
       },
       {
         "title": "Für Catering & Lieferdienste",
         "description": "Optimierte Food-Fotos erhöhen die Klickrate auf deinen Gerichten – und damit deine Umsätze.",
-        "imageUrl": "images/user2.png"
+        "imageUrl": "images/user2.jpg"
       },
       {
         "title": "Für Cafés & Bistros",
         "description": "Moderne, helle Fotos für Social Media und digitale Speisekarten.",
-        "imageUrl": "images/user1.png"
+        "imageUrl": "images/user1.jpg"
       }
     ]
   },
