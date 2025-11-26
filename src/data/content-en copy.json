@@ -2,15 +2,15 @@
   "header": {
     "logoUrl": "images/logo.svg",
     "cta": {
-      "text": "Request Free Test Images Now",
+      "text": "Select Package",
       "link": "#cta"
     }
   },
   "hero": {
     "headline": "Boost Your Orders with AI-Optimized Food Photos.",
-    "subheadline": "Professionally retouched dishes that look instantly appetizing – ideal for delivery services, social media, and menus.",
+    "subheadline": "We transform your existing food photos into professionally retouched, mouth-watering images that increase clicks and orders.",
     "cta1": {
-      "text": "Request Free Test Images Now",
+      "text": "Get 2 Free Test Images",
       "link": "#cta"
     },
     "cta2": {
@@ -41,6 +41,7 @@
   },
   "features": {
     "title": "What We Do for Restaurants",
+    "beforeAfterLabel": "Before / After",
     "items": [
       {
         "title": "AI Retouching",
@@ -119,9 +120,11 @@
       {
         "title": "⭐ Starter Normal",
         "features": [
-          "→ 2 free test images.",
-          "5 optimized photos",
-          "+3 Bonus images"
+          "→ 2 free test images <br> (will be offset against the 5 images)",
+          "5 optimized photos = 120 €",
+          "+3 Bonus images",
+          "---------------------",
+          "total 8 optimized images"
         ],
         "price": "120 €",
         "buttonText": "Select Package",
@@ -130,9 +133,11 @@
       {
         "title": "⭐ Standard Normal",
         "features": [
-          "→ 2 free test images.",
-          "10 optimized photos",
-          "+5 Bonus images"
+          "→ 2 free test images <br> (will be offset against the 10 images)",
+          "10 optimized photos = 200 €",
+          "+5 Bonus images",
+          "---------------------",
+          "total 15 optimized images"
         ],
         "price": "200 €",
         "buttonText": "Select Package",

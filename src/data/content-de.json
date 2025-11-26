@@ -37,6 +37,7 @@
   },
   "features": {
     "title": "Was wir für Restaurants tun",
+    "beforeAfterLabel": "Vorher / Nachher",
     "items": [
       {
         "title": "AI Nachbearbeitung",
@@ -101,7 +102,7 @@
       },
       {
         "question": "Welche Dateiformate akzeptiert ihr?",
-      "answer": "JPG, PNG"
+        "answer": "JPG, PNG"
       },
       {
         "question": "Kann ich später weitere Bilder buchen?",
@@ -121,7 +122,7 @@
         ],
         "price": "120 €",
         "buttonText": "Paket wählen",
-        "buttonLink": "mailto:info@targetx.de?subject=Anfrage%20Starter%20Paket"
+        "buttonLink": "https://7583219905613.gumroad.com/l/uqlzrx"
       },
       {
         "title": "⭐ Standard normal",
@@ -132,7 +133,7 @@
         ],
         "price": "200 €",
         "buttonText": "Paket wählen",
-        "buttonLink": "mailto:info@targetx.de?subject=Anfrage%20Standard%20Paket"
+        "buttonLink": "https://7583219905613.gumroad.com/l/lljsov"
       }
     ]
   },

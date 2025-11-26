@@ -37,6 +37,7 @@
   },
   "features": {
     "title": "Was wir für Restaurants tun",
+    "beforeAfterLabel": "Vorher / Nachher",
     "items": [
       {
         "title": "AI Nachbearbeitung",
@@ -115,9 +116,11 @@
       {
         "title": "⭐ Starter normal",
         "features": [
-          "→ 2 kostenlose Testbilder.",
-          "5 optimierte Fotos",
-          "+3 Bonusbild"
+          "→ 2 kostenlose Testbilder <br> (werden dann mit den 5 Bildern verrechnet)",
+          "5 optimierte Fotos = 120 €",
+          "+3 Bonusbilder",
+          "---------------------",
+          "insgesamt 8 optimierte Bilder"
         ],
         "price": "120 €",
         "buttonText": "Paket wählen",
@@ -126,9 +129,11 @@
       {
         "title": "⭐ Standard normal",
         "features": [
-          "→ 2 kostenlose Testbilder.",
-          "10 optimierte Fotos",
-          "+5 Bonusbilder"
+          "→ 2 kostenlose Testbilder <br> (werden dann mit den 10 Bildern verrechnet)",
+          "10 optimierte Fotos = 200 €",
+          "+5 Bonusbilder",
+          "---------------------",
+          "insgesamt 15 optimierte Bilder"
         ],
         "price": "200 €",
         "buttonText": "Paket wählen",

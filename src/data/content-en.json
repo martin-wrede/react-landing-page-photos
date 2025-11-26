@@ -8,7 +8,7 @@
   },
   "hero": {
     "headline": "Boost Your Orders with AI-Optimized Food Photos.",
-    "subheadline": "Professionally retouched dishes that look instantly appetizing – ideal for delivery services, social media, and menus.",
+    "subheadline": "We transform your existing food photos into professionally retouched, mouth-watering images that increase clicks and orders.",
     "cta1": {
       "text": "Select Package",
       "link": "#cta"
@@ -41,6 +41,7 @@
   },
   "features": {
     "title": "What We Do for Restaurants",
+    "beforeAfterLabel": "Before / After",
     "items": [
       {
         "title": "AI Retouching",
@@ -117,7 +118,7 @@
     "headline": "Christmas Special until December 6th:",
     "pricingItems": [
       {
-        "title": "⭐ Starter Normal",
+        "title": "⭐ Starter Package",
         "features": [
           "→ 2 free test images.",
           "5 optimized photos",
@@ -125,10 +126,10 @@
         ],
         "price": "120 €",
         "buttonText": "Select Package",
-        "buttonLink": "mailto:info@targetx.de?subject=Request%20Starter%20Package"
+        "buttonLink": "https://7583219905613.gumroad.com/l/uqlzrx"
       },
       {
-        "title": "⭐ Standard Normal",
+        "title": "⭐ Standard Package",
         "features": [
           "→ 2 free test images.",
           "10 optimized photos",
@@ -136,7 +137,7 @@
         ],
         "price": "200 €",
         "buttonText": "Select Package",
-        "buttonLink": "mailto:info@targetx.de?subject=Request%20Standard%20Package"
+        "buttonLink": "https://7583219905613.gumroad.com/l/lljsov"
       }
     ]
   },
