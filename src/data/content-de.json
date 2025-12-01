@@ -114,9 +114,9 @@
     "headline": "Weihnachtsaktion bis 22. Dezember:",
     "pricingItems": [
       {
-        "title": "⭐ Starter normal",
+        "title": "⭐ Starter Paket",
         "features": [
-          "→ 2 kostenlose Testbilder (no credit card required)",
+          "→ 2 kostenlose Testbilder bei Neukunden (no credit card required)",
           "5 optimierte Fotos",
           ""
         ],
@@ -126,9 +126,9 @@
         "buttonLink": "https://upload-images-form.pages.dev/?package=test"
       },
       {
-        "title": "⭐ Standard normal",
+        "title": "⭐ Standard Paket",
         "features": [
-          "→ 2 kostenlose Testbilder (no credit card required)",
+          "→ 2 kostenlose Testbilder bei Neukunden (no credit card required)",
           "10 optimierte Fotos",
           ""
         ],
