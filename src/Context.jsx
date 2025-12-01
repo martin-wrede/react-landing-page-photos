@@ -16,6 +16,7 @@ function ContextProvider({ children }) {
   });
 
   const [data, setData] = useState(language === 'de' ? contentDe : contentEn);
+  
 
   // Function to change language (can be used in a button etc.)
   const changeLanguage = (lang) => {
