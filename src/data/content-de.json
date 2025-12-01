@@ -86,7 +86,7 @@
     "items": [
       {
         "question": "Wie funktioniert das?",
-        "answer": "Du sendest uns einfach deine vorhandenen Essensfotos. Wir optimieren sie mit modernster AI und schicken dir die fertigen Bilder zurück."
+        "answer": "Du ladest die Fotos auf unseren Server hoch. Wir optimieren sie mit modernster AI und schicken dir die fertigen Bilder zurück."
       },
       {
         "question": "Brauche ich professionelle Kamera-Fotos?",
@@ -98,7 +98,7 @@
       },
       {
         "question": "Kann ich vor dem Kauf Beispiele sehen?",
-        "answer": "Ja. Du bekommst 2 kostenlose Testoptimierungen, bevor du dich entscheidest."
+        "answer": "Ja. Du bekommst als Neukunde 2 kostenlose Testoptimierungen, bevor du dich entscheidest."
       },
       {
         "question": "Welche Dateiformate akzeptiert ihr?",
@@ -116,47 +116,26 @@
       {
         "title": "⭐ Starter normal",
         "features": [
-          "→ 2 kostenlose Testbilder.",
+          "→ 2 kostenlose Testbilder (no credit card required)",
           "5 optimierte Fotos",
-          "+3 Bonusbild"
+          ""
         ],
-        "price": "120 €",
+        "price": "142,80 €",
+        "priceInformation": "(inkl. 19% MwSt.)",
         "buttonText": "Paket wählen",
-        "buttonLink": "https://7583219905613.gumroad.com/l/uqlzrx"
+        "buttonLink": "https://upload-images-form.pages.dev/?package=test"
       },
       {
         "title": "⭐ Standard normal",
         "features": [
-          "→ 2 kostenlose Testbilder.",
+          "→ 2 kostenlose Testbilder (no credit card required)",
           "10 optimierte Fotos",
-          "+5 Bonusbilder"
+          ""
         ],
-        "price": "200 €",
+        "price": "238 €",
+        "priceInformation": "(inkl. 19% MwSt.)",
         "buttonText": "Paket wählen",
-        "buttonLink": "https://7583219905613.gumroad.com/l/lljsov"
-      }
-    ]
-  },
-  "pricing": {
-    "headline": "Preistabelle",
-    "items": [
-      {
-        "name": "Starter",
-        "content": "5 optimierte Fotos",
-        "price": "120 €",
-        "bonus": "+ 3 Gratisbilder"
-      },
-      {
-        "name": "Standard (Beliebt)",
-        "content": "10 optimierte Fotos",
-        "price": "200 €",
-        "bonus": "+ 8 Gratisbilder"
-      },
-      {
-        "name": "Premium",
-        "content": "20 optimierte Fotos",
-        "price": "350 €",
-        "bonus": "+ 15 Gratisbilder"
+        "buttonLink": "https://upload-images-form.pages.dev/?package=test"
       }
     ]
   },

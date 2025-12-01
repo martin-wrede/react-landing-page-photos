@@ -18,6 +18,7 @@ const CTASection = ({ data }) => {
                   ))}
                 </ul>
                 <div className="pricing-price">{item.price}</div>
+                <div className="pricing-features">{item.priceInformation}</div>
                 <a href={item.buttonLink} className="cta-button pricing-button">{item.buttonText}</a>
               </div>
             ))}

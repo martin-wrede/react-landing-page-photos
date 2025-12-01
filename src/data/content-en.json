@@ -120,47 +120,26 @@
       {
         "title": "⭐ Starter Package",
         "features": [
-          "→ 2 free test images.",
+          "→ 2 free test images (no credit card required)",
           "5 optimized photos",
-          "+3 Bonus images"
+          ""
         ],
-        "price": "120 €",
+        "price": "142,80 €",
+        "priceInformation": "(incl. 19% VAT)",
         "buttonText": "Select Package",
-        "buttonLink": "https://7583219905613.gumroad.com/l/uqlzrx"
+        "buttonLink": "https://upload-images-form.pages.dev/?package=test"
       },
       {
         "title": "⭐ Standard Package",
         "features": [
-          "→ 2 free test images.",
+          "→ 2 free test images (no credit card required)",
           "10 optimized photos",
-          "+5 Bonus images"
+          ""
         ],
-        "price": "200 €",
+        "price": "238 €",
+        "priceInformation": "(incl. 19% VAT)",
         "buttonText": "Select Package",
-        "buttonLink": "https://7583219905613.gumroad.com/l/lljsov"
-      }
-    ]
-  },
-  "pricing": {
-    "headline": "Pricing Table",
-    "items": [
-      {
-        "name": "Starter",
-        "content": "5 optimized photos",
-        "price": "120 €",
-        "bonus": "+ 3 Free Images"
-      },
-      {
-        "name": "Standard (Popular)",
-        "content": "10 optimized photos",
-        "price": "200 €",
-        "bonus": "+ 8 Free Images"
-      },
-      {
-        "name": "Premium",
-        "content": "20 optimized photos",
-        "price": "350 €",
-        "bonus": "+ 15 Free Images"
+        "buttonLink": "https://upload-images-form.pages.dev/?package=test"
       }
     ]
   },
