@@ -9,10 +9,11 @@ import { Context } from './Context';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Credentials from './components/Credentials';
+import CTASection from './components/CTASection';
 import Features from './components/Features';
 import Users from './components/Users';
 import FAQ from './components/FAQ';
-import CTASection from './components/CTASection';
+
 import Footer from './components/Footer';
 
 function App() {
