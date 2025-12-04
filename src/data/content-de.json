@@ -123,7 +123,7 @@
         "price": "142,80 €",
         "priceInformation": "(inkl. 19% MwSt.)",
         "buttonText": "Paket wählen",
-        "buttonLink": "https://upload-images-form-comment.pages.dev/?package=test"
+        "buttonLink": "https://upload-images-form-comment.pages.dev/?package=teststarter"
       },
       {
         "title": "⭐ Standard Paket",
@@ -135,7 +135,7 @@
         "price": "238 €",
         "priceInformation": "(inkl. 19% MwSt.)",
         "buttonText": "Paket wählen",
-        "buttonLink": "https://upload-images-form-comment.pages.dev/?package=test"
+        "buttonLink": "https://upload-images-form-comment.pages.dev/?package=teststandard"
       }
     ]
   },
