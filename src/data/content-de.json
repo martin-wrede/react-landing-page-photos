@@ -10,8 +10,12 @@
     "headline": "Steigere deine Bestellungen mit AI-optimierten Food-Fotos.",
     "subheadline": "Professionell nachbearbeitete Gerichte, die sofort appetitlich wirken – ideal für Lieferdienste, Social Media und Speisekarten.",
     "cta1": {
-      "text": "Paket wählen",
+      "text": "Kostenlos testen",
       "link": "#cta"
+    },
+    "cta2": {
+      "text": "Beispiele ansehen",
+      "link": "https://www.instagram.com/martin_wrede/"
     },
     "imageUrl": "images/hero.jpg"
   },

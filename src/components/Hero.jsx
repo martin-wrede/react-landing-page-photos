@@ -17,6 +17,7 @@ const Hero = ({ data }) => {
           <p className="subheadline">{data.subheadline}</p>
           <div className="hero-cta-buttons">
             <a href={data.cta1.link} className="cta-button">{data.cta1.text}</a>
+            <a href={data.cta2.link} target="_blank" className="cta-button2">{data.cta2.text}</a>
 
           </div>
         </div>
