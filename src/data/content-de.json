@@ -86,7 +86,8 @@
     "items": [
       {
         "question": "Wie funktioniert das?",
-        "answer": "Du ladest die Fotos auf unseren Server hoch. Wir optimieren sie mit modernster AI und schicken dir die fertigen Bilder zurück."
+        "answer": "Du ladest die Fotos auf unseren Server hoch. Wir optimieren sie mit modernster AI und schicken dir die fertigen Bilder zurück.",
+        "imageUrl": "images/info-graphic-de.png"
       },
       {
         "question": "Brauche ich professionelle Kamera-Fotos?",

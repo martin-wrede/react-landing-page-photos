@@ -10,6 +10,7 @@ const FAQ = ({ data }) => {
             <div key={index} className="faq-item">
               <h4>{item.question}</h4>
               <p>{item.answer}</p>
+              {item.imageUrl && <img src={item.imageUrl} alt="Info-Graphic" width="100%" height="auto" />}
             </div>
           ))}
         </div>
